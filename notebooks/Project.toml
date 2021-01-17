@@ -1,6 +1,5 @@
-project = "Ptolemy's Geography in Latin"
-
 name = "MID validator notebook"
+project = "Ptolemy's Geography in Latin"
 version = "0.3.1"
 
 [deps]

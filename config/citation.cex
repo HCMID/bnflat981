@@ -1,2 +1,2 @@
 urn|file|converter|diplomatic|normalized|orthography
-urn:cts:greekLit:tlg0363.tlg009.bnf981:|tl3.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
+urn:cts:greekLit:tlg0363.tlg009.bnf981:|bnflat981.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
