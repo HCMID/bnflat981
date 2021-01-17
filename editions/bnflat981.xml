@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cosmographia</title>
+        <author>Ptolemy</author>
+      </titleStmt>
+      <editionStmt>
+        <p>Original diplomatic edition of Paris, BNF 981</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Digitally published by HC MID</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Directly edited from images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <!-- You shouldn't regularly need to edit stuff
+  above this line. -->
+  
+  <text>
+    <body>
+    <!-- 1 recto -->
+      <ab n="title"></ab>
+    </body>
+    </text>
+</TEI>
